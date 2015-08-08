@@ -1,0 +1,28 @@
+body {background-color: #FFE}
+h1 {font-family: Verdana;}
+h1 {color: black;}
+p {color: black;}
+p {font-family: Arial;}
+ul 	{color: black;}	
+ul {font-family: Arial;}
+ol {font-family: Arial;}
+ol {color: black;}
+img {background-image: }
+p {font-family: Arial;}
+h2 {font-family: Arial;}
+h2 {color: #887;}
+h3 {color: black;}
+h3 {font-family: arial;}
+<style>
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:hover {
+    color: blue;
+    background-color: transparent;
+}
+p.one {
+    border-style: solid;
+    border-color: red;
+} 
+</style>
+</head>
+<body>
